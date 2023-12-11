@@ -1,0 +1,66 @@
+[
+    {
+        "employeeID": 1,
+        "name": "Cristian",
+        "salary": 60000,
+        "department": "Engineering"
+    },
+    {
+        "employeeID": 22,
+        "name": "Reggie",
+        "salary": 60000,
+        "department": "Design"
+    },     
+    {
+        "employeeID": 33,
+        "name": "Benji",
+        "salary": 60000,
+        "department": "IT"
+    },
+     {
+        "employeeID": 44,
+        "name": "Clerick",
+        "salary": 100000,
+        "department": "CEO"
+    },
+    {
+        "employeeID":55 ,
+        "name": "Chasity",
+        "salary": 60000,
+        "department": "HR"
+    },
+    {
+        "employeeID": 66,
+        "name": "Monica",
+        "salary": 60000,
+        "department": "Engineering"
+    },
+    {
+        "employeeID":77 ,
+        "name": "Jerry",
+        "salary": 60000,
+        "department": "HR"
+    },
+    {
+        "employeeID": 88,
+        "name": "Victor",
+        "salary": 60000,
+        "department": "Finance"
+    },
+    {
+        "employeeID": 99,
+        "name": "Hassan",
+        "salary": 60000,
+        "department": "Engineering"
+    },
+    {
+        "employeeID": 0,
+        "name": "Brenda",
+        "salary": 60000,
+        "department": "Finance"
+    }
+    
+    
+
+
+]
